@@ -98,7 +98,7 @@ $(function(){
   ASSETS = {};
 
   TEXT_ASSETS = {
-    "evangelion": "GUNKS",
+    "evangelion": "GUNKSQUAD",
     "gainax": "GAINAX",
     "ngejap": "\u4EB2\u65A4\u4E16\u7CF8\u5DF1"
   };
