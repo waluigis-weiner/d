@@ -1,0 +1,70 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'TimesNRCondensedBold';
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+canvas#canvas2d {
+  border: 1px dotted black;
+}
+
+.status {
+  height: 50px;
+}
+
+span#framenum {
+  display: inline-block;
+  width: 60px;
+}
+
+.preload {
+  font-size: 1px;
+  color: white;
+}
+
+* {
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'TimesNRCondensedBold';
+  src: url('fonts/timesnewroman/TimesNRCondensedBold.eot?#iefix') format('embedded-opentype'),  url('fonts/timesnewroman/TimesNRCondensedBold.woff') format('woff'), url('fonts/timesnewroman/TimesNRCondensedBold.ttf')  format('truetype'), url('fonts/timesnewroman/TimesNRCondensedBold.svg#TimesNRCondensedBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'matisse2';
+  src: url('fonts/matisse/matisse2.eot?#iefix') format('embedded-opentype'),  url('fonts/matisse/matisse2.woff') format('woff'), url('fonts/matisse/matisse2.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'matisse2_thin';
+  src: url('fonts/matisse/matisse2_thin.eot?#iefix') format('embedded-opentype'),  url('fonts/matisse/matisse2_thin.woff') format('woff'), url('fonts/matisse/matisse2_thin.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'matisse2_thick';
+  src: url('fonts/matisse/matisse2_thick.eot?#iefix') format('embedded-opentype'),  url('fonts/matisse/matisse2_thick.woff') format('woff'), url('fonts/matisse/matisse2_thick.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'mermaid';
+  src: url('fonts/mermaid/mermaid.eot?#iefix') format('embedded-opentype'),  url('fonts/mermaid/mermaid.woff') format('woff'), url('fonts/mermaid/mermaid.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/*@font-face {
+  font-family: 'evangelion';
+  src: url('fonts/evangelion/evangelion.eot?#iefix') format('embedded-opentype'),  url('fonts/evangelion/evangelion.woff') format('woff'), url('fonts/evangelion/evangelion.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}*/
